@@ -1,0 +1,14 @@
+# ignore compiled files / assembly / builds / caches
+*.o
+*.s
+*.out
+**/asm
+**/bin
+**/build
+**/__pycache__
+
+# Java
+*.class
+
+# vscode
+.vscode/
